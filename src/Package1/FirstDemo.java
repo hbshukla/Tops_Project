@@ -9,7 +9,8 @@ public class FirstDemo
 		System.out.println("This is Tops Techonologies");
 		System.out.println("Mo:123456");
 		System.out.println("Hello All");
-		System.out.println(no+no);
+		
+		System.out.println(no+no+no);
 		
 	}
 
