@@ -8,7 +8,7 @@ public class RightTriangle {
 			for (int j=1; j<=i; j++)
 			{
 				for (int s=j;s<=j;s++)
-				System.out.print(" " + j + " ");	
+				System.out.print(j+" ");	
 			}
 			System.out.println("");
 		}
