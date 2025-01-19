@@ -7,6 +7,7 @@ public class HelloWorld {
 		//comment
 		//comment1
 		//comment2
+		//comment3
 	}
 
 }
