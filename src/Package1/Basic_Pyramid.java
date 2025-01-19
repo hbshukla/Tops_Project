@@ -13,6 +13,7 @@ public class Basic_Pyramid {
 				System.out.print("*" + " ");
 			}
 			// Move to Next Line
+			//
 			System.out.println();
 
 		}
