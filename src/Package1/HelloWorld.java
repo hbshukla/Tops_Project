@@ -4,13 +4,8 @@ public class HelloWorld {
 	public static void main(String[] args)
 	{
 		System.out.println("Hello World");
-		//comment
-		//comment1
-		//comment2
-		//comment3
-		//comment4
-		//comment5
-		//Comment7-by temp
+		//comment1-Add by temp
+
 	}
 
 }
