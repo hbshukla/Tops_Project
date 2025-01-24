@@ -12,8 +12,6 @@ public class HelloWorld {
 		//comment5
 		//comment6- by Master
 		//Comment7-by temp
-
-
 	}
 
 }
