@@ -6,8 +6,7 @@ public class HelloWorld {
 		System.out.println("Hello World");
 		//comment1-by temp
 		//comment2-by temp
-		//comment3-by temp	
-		//comment4-by temp
+		
 	}
 
 }
