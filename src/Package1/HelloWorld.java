@@ -10,6 +10,7 @@ public class HelloWorld {
 		//comment3
 		//comment4
 		//comment5
+		//Comment7-by temp
 	}
 
 }
