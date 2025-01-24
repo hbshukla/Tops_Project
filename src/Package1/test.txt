@@ -1,3 +1,7 @@
 Your new line of text-2
 Your new line of text-1
 Your new line of text
+<<<<<<< HEAD
+=======
+
+>>>>>>> 366e5c0c55a92b884d93a217dff5fb649aec4474
